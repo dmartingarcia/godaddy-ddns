@@ -1,5 +1,15 @@
 # godaddy-ddns
 
+# IMPORTANT
+
+This scrips still works. BUT Godaddy recently changed their API conditions. User with less than 50 domains are not allowed to use the API.
+
+[Redit Thread](https://www.reddit.com/r/godaddy/comments/1coop0k/api_access/)
+
+
+## Info
+
+
 This script manages Godaddy DNS entries in order to have a dynamic DNS always synced with your computer's IP.
 
 I suggest to execute it using a *crontab* entry like:
